@@ -1,1 +1,1 @@
-# RGB-Color-Detection
+# RGB Color Detection App
